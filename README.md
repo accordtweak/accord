@@ -22,6 +22,6 @@ Please report bugs in https://discord.gg/pWMetnm.
 
 ===
 
-There is also a beta repo located at https://github.com/accordtweak/accord/blob/master/README.md.
+There is also a beta repo located at http://virulent.pw/Accord/repo.
 
 PS: Thanks for supporting us, you guys are awesome!
