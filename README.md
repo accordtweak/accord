@@ -5,6 +5,7 @@ Accord is discord for iOS improvement software. It offers useful features, and i
 ## Types of releases:
 
 You can find releases [here](https://github.com/accordtweak/accord/releases)
+
 We will offer two types of releases:
 
 ### Stable:
@@ -18,3 +19,9 @@ These releases are often compiled with the discord for iOS testflight, and offer
 ## Bug reporting:
 
 Please report bugs in https://discord.gg/pWMetnm.
+
+===
+
+There is also a beta repo located at https://github.com/accordtweak/accord/blob/master/README.md.
+
+PS: Thanks for supporting us, you guys are awesome!
