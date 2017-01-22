@@ -20,6 +20,12 @@ These releases are often compiled with the discord for iOS testflight, and offer
 
 Please report bugs in https://discord.gg/pWMetnm.
 
+
+## OKEY I GET SIDELOAD ONE BUT HOW 2 SIDELOAD??1?
+
+https://www.reddit.com/r/sideloaded/wiki/ipasigning#wiki_how_to_sideload_using_saurik.27s_.22impactor.22
+
+You can get sideloading help in https://discord.sideloaded.co.
 ===
 
 There is also a beta repo located at http://virulent.pw/Accord/repo.
